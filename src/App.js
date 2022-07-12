@@ -1,10 +1,10 @@
-
 import './App.css';
+import GetAllStarships from './Components/Starships';
 
 function App() {
   return (
     <div className="App">
-    <h1>Hello World!</h1> 
+    <GetAllStarships/>
     </div>
   );
 }
